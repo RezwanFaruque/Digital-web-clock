@@ -1,0 +1,25 @@
+.area{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock-area{
+    width:700px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#2C3D63;;
+}
+
+.timer{
+    font-size: 93px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    letter-spacing: 4px;
+    line-height: 32px;
+    font-weight: bolder;
+}
